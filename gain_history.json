@@ -1,0 +1,6 @@
+{
+  "history": {
+    "BTC": [{ "timestamp": 1714670000, "gain": 1.2 }, ...],
+    "ETH": [{ "timestamp": 1714670000, "gain": 0.8 }, ...]
+  }
+}
