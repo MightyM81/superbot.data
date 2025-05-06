@@ -1,1 +1,20 @@
-{"timestamp": 1746480471.016497, "coins": []}
+{
+  "timestamp": 1746527731.8455517,
+  "coins": [
+    {
+      "name": "Bitcoin",
+      "price": 0,
+      "score": 0.496,
+      "tp": 5.0,
+      "sl": 3.0,
+      "mod": 0.4,
+      "vol_now": 1,
+      "vol_avg": 1,
+      "winrate": "-",
+      "signal": "IGNORE",
+      "trades": 0,
+      "gain": 0,
+      "status": "-"
+    }
+  ]
+}
