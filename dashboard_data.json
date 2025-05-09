@@ -1,1 +1,66 @@
-{"timestamp": 1746709195.7992542, "coins": []}
+{
+  "BTCUSDT": {
+    "type": "futures",
+    "price": 30000,
+    "gain": 0,
+    "tp": 6,
+    "sl": 3,
+    "score": 0.0,
+    "invested": 0
+  },
+  "ETHUSDT": {
+    "type": "futures",
+    "price": 2000,
+    "gain": 0,
+    "tp": 6,
+    "sl": 3,
+    "score": 0.0,
+    "invested": 0
+  },
+  "SOLUSDT": {
+    "type": "futures",
+    "price": 100,
+    "gain": 0,
+    "tp": 7,
+    "sl": 3,
+    "score": 0.0,
+    "invested": 0
+  },
+  "XRPUSDT": {
+    "type": "spot",
+    "price": 0.6,
+    "gain": 0,
+    "tp": 5,
+    "sl": 2,
+    "score": 0.0,
+    "invested": 0
+  },
+  "MATICUSDT": {
+    "type": "spot",
+    "price": 1,
+    "gain": 0,
+    "tp": 6,
+    "sl": 3,
+    "score": 0.0,
+    "invested": 0
+  },
+  "LTCUSDT": {
+    "type": "futures",
+    "price": 80,
+    "gain": 0,
+    "tp": 8,
+    "sl": 3,
+    "score": 0.0,
+    "invested": 0
+  },
+  "DOGEUSDT": {
+    "type": "futures",
+    "price": 0.1,
+    "gain": 0,
+    "tp": 5,
+    "sl": 3,
+    "score": 0.0,
+    "invested": 0
+  },
+  "last_updated": "2025-05-09 00:27 UTC"
+}
